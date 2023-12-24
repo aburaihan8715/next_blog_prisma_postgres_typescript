@@ -16,4 +16,5 @@ https://www.youtube.com/watch?v=T3Ic1vT0iO8
 
 ### pending tasks
 1. implement like and dislike functions
+2. delete and update comment
 
