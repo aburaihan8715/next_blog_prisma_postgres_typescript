@@ -1,0 +1,19 @@
+## next_blog_prisma_typescript
+
+### =========references===========
+-tutorials
+https://www.youtube.com/watch?v=T3Ic1vT0iO8
+
+
+
+### features/actions
+
+
+### technologies used
+
+### completed tasks
+
+
+### pending tasks
+1. implement like and dislike functions
+
