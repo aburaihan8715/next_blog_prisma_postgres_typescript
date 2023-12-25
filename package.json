@@ -1,5 +1,5 @@
 {
-  "name": "next_blog_prisma_typescript",
+  "name": "next_blog_prisma_postgres_typescript",
   "version": "0.1.0",
   "private": true,
   "scripts": {

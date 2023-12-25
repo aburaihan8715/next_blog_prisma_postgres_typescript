@@ -7,9 +7,14 @@ https://www.youtube.com/watch?v=T3Ic1vT0iO8
 
 
 ### features/actions
+1. create post
+2. create comment
 
 
 ### technologies used
+1.  prisma
+2.  typescript
+2.  next js
 
 ### completed tasks
 
